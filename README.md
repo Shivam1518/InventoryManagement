@@ -25,23 +25,6 @@ A simple **Inventory Management System** developed using **Java**. This is a con
 
 ---
 
-## 🗂️ Project Structure
-
-InventoryManagementSystem/
-│
-├── model/
-│ └── Item.java # Item model class
-│
-├── service/
-│ └── InventoryManager.java # Handles all item operations (CRUD + sort)
-│
-├── main/
-│ └── Main.java # Application entry point
-│
-└── README.md # Project documentation
-
-
----
 
 ## 🧑‍💻 How to Run
 
@@ -86,13 +69,3 @@ Shivam Pandey
 🌟 Star this repository if you found it useful!
 
 ---
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
