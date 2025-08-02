@@ -44,10 +44,7 @@ Right-click on Main.java → Run
 
 Follow the terminal prompts
 
-🖼 Output
-mathematica
-Copy
-Edit
+
 ===== Inventory Management System =====
 1. Add Item
 2. View All Items
@@ -67,5 +64,3 @@ This project is open source and available under the MIT License.
 Shivam Pandey
 
 🌟 Star this repository if you found it useful!
-
----
